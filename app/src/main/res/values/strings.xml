@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">parapet</string>
+    <string name="default_button_text">Mon Bouton</string>
+    <string name="concerts">Concerts</string>
+    <string name="programme">Programme</string>
+    <string name="parapente">Parapente</string>
+</resources>
